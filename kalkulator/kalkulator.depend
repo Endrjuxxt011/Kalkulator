@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585523284 source:e:\programy c++\kalkulator\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	"kalfun.hpp"
+
+1585523178 e:\programy c++\kalkulator\kalfun.hpp
+
