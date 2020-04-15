@@ -10,7 +10,7 @@ int d;
 int* p;
 float w[7];
 string decyzja, wybor;
-string test;
+
 int main()
 {
 	do
